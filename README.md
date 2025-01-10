@@ -1,5 +1,5 @@
 # Snow Globe
-
+> Overall very fun to create, although the 3d model was very hard. I would not recommend this for newbies, but if your looking to pour hours into something that looks great, this is what you are looking for
 ## Overview
 This project creates an interactive 3D snow globe using Three.js. Users can interact with the globe by dragging it to move the snow, creating a festive and immersive experience.
 
